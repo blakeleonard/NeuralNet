@@ -1,5 +1,8 @@
 // Training Algorithm
 
+// Blake Leonard
+// 2012
+
 
 void train (int input_size, double input[], double des_output, int training_steps)
 {

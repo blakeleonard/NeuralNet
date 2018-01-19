@@ -1,5 +1,8 @@
 // Generate Array of random connections
 
+// Blake Leonard
+// 2012
+
 
 void randconnections ( void )
 {

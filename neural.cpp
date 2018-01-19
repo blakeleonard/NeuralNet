@@ -1,4 +1,4 @@
-// Main Neural Network Source
+// Main Neural Network
 
 // Blake Leonard
 // 2012
